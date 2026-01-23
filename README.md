@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Olá!+Sou+Henry+Oliveira+👋;Full+Stack+Developer+%7C+Data+Scientist;Fundador+da+NeonCode+Software+House" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2000&pause=1000&color=00FF41&center=true&vCenter=true&width=940&lines=%3E+Inicializando...;%3E+Carregando+perfil...;%3E+Henry+Oliveira+conectado;%3E+Full+Stack+Developer;%3E+Data+Scientist;%3E+Sistema+operacional" alt="Typing SVG" />
 
 </div>
 
@@ -48,6 +48,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 📊 Data Science & Analytics
@@ -73,19 +74,38 @@
 
 ---
 
-## 💼 Competências Técnicas
+## 🌱 Atualmente Aprendendo
 
-```javascript
-const henrySkills = {
-    mobile: ["React Native", "Expo", "Flutter", "Dart"],
-    frontend: ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS"],
-    backend: ["Python", "Django", "Node.js", "REST APIs"],
-    dataScience: ["Python", "Pandas", "Matplotlib", "SQL", "Excel/VBA"],
-    databases: ["MySQL", "PostgreSQL", "SQLite"],
-    devOps: ["Git", "GitHub", "Docker", "AWS"],
-    methodologies: ["Scrum", "Kanban", "Agile"]
-};
-```
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="80" height="80"/>
+<br><strong>C#</strong>
+<br>Linguagem de programação moderna e orientada a objetos
+</td>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="80" height="80"/>
+<br><strong>.NET</strong>
+<br>Framework para desenvolvimento de aplicações
+</td>
+<td align="center" width="200">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="80" height="80"/>
+<br><strong>NumPy</strong>
+<br>Computação científica com Python
+</td>
+<td align="center" width="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" width="80" height="80"/>
+<br><strong>SciPy</strong>
+<br>Estatística e análise de dados
+</td>
+</tr>
+</table>
+
+</div>
+
+---
 
 ### 🎯 Áreas de Especialização
 
@@ -105,12 +125,8 @@ const henrySkills = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henry0liveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry0liveira&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henry0liveira&theme=tokyonight" alt="GitHub Streak" />
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Henry0liveira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry0liveira&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41"/>
 </div>
 
 ---
@@ -135,24 +151,9 @@ Showcase de projetos e aplicações desenvolvidas
 
 ---
 
-## 🌱 Atualmente Aprendendo
-
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-**Machine Learning** | **Cloud Architecture** | **Microservices** | **CI/CD**
-
----
-
-## 📫 Vamos Conversar?
-
-Estou sempre aberto a novos projetos, colaborações e oportunidades!
-
-💬 Entre em contato comigo através dos links no topo do perfil ou pelo email.
-
----
-
 <div align="center">
   
-  <img src="https://komarev.com/ghpvc/?username=Henry0liveira&color=blueviolet&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Henry0liveira&color=00FF41&style=for-the-badge&label=VISITAS" alt="Profile views" style="height: 60px;"/>
   
   ### ⭐ Obrigado pela visita!
   
