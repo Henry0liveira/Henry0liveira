@@ -1,10 +1,12 @@
 <div align="center">
   
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=940&lines=Olá!+Sou+Henry+Oliveira+👋;Full+Stack+Developer+%7C+Data+Scientist;Fundador+da+NeonCode+Software+House" alt="Typing SVG" />
+
 </div>
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([seu-linkedin-aqui](https://www.linkedin.com/in/henry-oliveira-6120682a9/))
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henry-oliveira-6120682a9/)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:henrythomasdasilvadeoliveira@gmail.com)
 
 </div>
@@ -22,7 +24,7 @@
 - 🔍 Foco em **Análise e Desenvolvimento de Soluções de Dados**
 - 🌐 Desenvolvimento de aplicações **Full Stack** (Web & Mobile)
 - ☁️ Criação de soluções **SaaS** escaláveis
-- ➕ Analisar e desenvolver solução na área de dados
+- ➕ Análise e Previsão de Dados com Python
 
 ---
 
@@ -69,6 +71,21 @@
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
+---
+
+## 💼 Competências Técnicas
+
+```javascript
+const henrySkills = {
+    mobile: ["React Native", "Expo", "Flutter", "Dart"],
+    frontend: ["React", "Next.js", "TypeScript", "JavaScript", "Tailwind CSS"],
+    backend: ["Python", "Django", "Node.js", "REST APIs"],
+    dataScience: ["Python", "Pandas", "Matplotlib", "SQL", "Excel/VBA"],
+    databases: ["MySQL", "PostgreSQL", "SQLite"],
+    devOps: ["Git", "GitHub", "Docker", "AWS"],
+    methodologies: ["Scrum", "Kanban", "Agile"]
+};
+```
 
 ### 🎯 Áreas de Especialização
 
@@ -83,7 +100,55 @@
 - ✅ Análise e Previsão de Dados com Python
 - ✅ Programação de Microcontroladores
 
+---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Henry0liveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry0liveira&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Henry0liveira&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🏆 Projetos em Destaque
+
+### 🍕 [SelfOrder - Sistema de Pedidos](https://github.com/Henry0liveira/SelfOrder)
+Sistema completo de autoatendimento para restaurantes
+- 📱 App Mobile: React Native + Expo
+- 🌐 Web App: React + Next.js + TypeScript
+- 🚀 Deploy na Vercel
+
+### 📊 [BDCON - Business Dashboard](https://github.com/Henry0liveira/BDCON)
+Dashboard de controle e análise de negócios
+- 🎯 Desenvolvido em Flutter/Dart
+- 📈 Visualização de dados em tempo real
+
+### 🎨 [Portfolio Pessoal](https://github.com/Henry0liveira/portfolio)
+Showcase de projetos e aplicações desenvolvidas
+- 💅 Design moderno e responsivo
+- ⚡ Performance otimizada
+
+---
+
+## 🌱 Atualmente Aprendendo
+
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+**Machine Learning** | **Cloud Architecture** | **Microservices** | **CI/CD**
+
+---
+
+## 📫 Vamos Conversar?
+
+Estou sempre aberto a novos projetos, colaborações e oportunidades!
+
+💬 Entre em contato comigo através dos links no topo do perfil ou pelo email.
+
+---
 
 <div align="center">
   
