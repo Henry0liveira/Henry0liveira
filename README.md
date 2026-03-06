@@ -120,17 +120,6 @@
 - ✅ Análise e Previsão de Dados com Python
 - ✅ Programação de Microcontroladores
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Henry0liveira&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41&icon_color=00FF41"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry0liveira&layout=compact&langs_count=7&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41"/>
-</div>
-
----
-
 ## 🏆 Projetos em Destaque
 
 ### 🍕 [SelfOrder - Sistema de Pedidos](https://github.com/Henry0liveira/SelfOrder)
